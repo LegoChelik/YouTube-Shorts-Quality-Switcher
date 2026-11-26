@@ -4,7 +4,7 @@
 // @namespace    local-development
 // @version      0.3.3
 // @description  Выбор качества в плеере YouTube Shorts
-// @match        https://www.youtube.com/shorts/*
+// @match        https://www.youtube.com/*
 // @grant        none
 // @noframes
 // @run-at       document-idle
