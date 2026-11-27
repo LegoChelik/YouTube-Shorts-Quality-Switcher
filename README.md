@@ -11,7 +11,7 @@
 
 ## Установка
 
-1. Установите расширение Tampermonkey.
+1. Установите расширение [Tampermonkey](https://www.tampermonkey.net/).
 2. Откройте [ссылку установки скрипта](https://github.com/LegoChelik/YouTube-Shorts-Quality-Switcher/raw/refs/heads/main/script.user.js).
 3. В окне Tampermonkey нажмите **Install / Установить**.
 4. Перезагрузите ранее открытые вкладки YouTube Shorts.
